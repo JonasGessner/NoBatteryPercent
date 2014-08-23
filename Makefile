@@ -4,6 +4,8 @@ TARGET = iphone:clang:latest:5.0
 
 THEOS_BUILD_DIR = Packages
 
+FINALPACKAGE = 1
+
 include theos/makefiles/common.mk
 
 TWEAK_NAME = NoBatteryPercent
