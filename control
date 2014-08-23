@@ -1,0 +1,8 @@
+Package: de.j-gessner.nobatterypercent
+Name: NoBatteryPercent
+Depends: mobilesubstrate, firmware (>= 5.0)
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: No "%" next to the battery percentage label. Sebastien Page can now sleep in peace.
+Author: Jonas Gessner
+Section: Tweaks
